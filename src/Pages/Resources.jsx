@@ -3,7 +3,7 @@ import NavBar from '../Component/NavBar'
 import Card from '../Component/Card'
 import chevron from "../assets/images/chevron.png"
 import leftChevron from "../assets/images/left-chevron.png"
-import CategoryComponent from '../Component/categoryComponent'
+import CategoryComponent from '../Component/CategoryComponent'
 import Contribute from '../Component/Contribute'
 import { useRef } from 'react'
 import KnowledgeBanner from '../Component/KnowledgeBanner'
