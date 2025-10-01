@@ -46,6 +46,7 @@ function Contribute(props) {
 
         } catch (error) {
             console.log("something went wrong while posting resource" + error);
+            alert("Your resource submission failed due to wrong input ");
         }
     }
 
